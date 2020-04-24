@@ -285,8 +285,6 @@
 - terrible
 - not very good
 - extremely sad
-- so sad
-- go to hell
 
 ## synonym:9wzi-peqs
 - home health agenc
