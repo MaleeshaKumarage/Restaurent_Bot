@@ -6,6 +6,7 @@
 - good evening
 - හායි....ඔයාට කොහොම්ද?
 - hy
+- කොහොමද
 
 ## intent:goodbye
 - bye
