@@ -29,3 +29,12 @@
 ## bot challenge
 * bot_challenge
   - utter_iamabot
+
+## New Story
+
+* greet
+    - utter_greet
+* bot_challenge
+    - utter_iamabot
+* mood_great
+    - utter_happy
