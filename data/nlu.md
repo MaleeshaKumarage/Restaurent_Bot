@@ -285,6 +285,7 @@
 - terrible
 - not very good
 - extremely sad
+- I hate the world
 
 ## synonym:9wzi-peqs
 - home health agenc
