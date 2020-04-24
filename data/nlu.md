@@ -20,7 +20,6 @@
 - do you have something else
 - no this does not work for me
 
-
 ## intent:out_of_scope
 - please help with my ice cream it's dripping
 - no wait go back i want a dripping ice cream but a cone that catches it so you can drink the ice cream later
@@ -90,6 +89,7 @@
 - hello is anybody there
 - hello robot
 - hi
+- hy
 
 ## intent:inform
 - [Sitka](location)
@@ -288,17 +288,19 @@
 - extremely sad
 - so sad
 
-## regex:location
-- [0-9]{5}
+## synonym:9wzi-peqs
+- home health agenc
+- home health agency
+- home health agencies
+
+## synonym:b27b-2uc7
+- nursing  home
+- nursing home
+- nursing homes
 
 ## synonym:xubh-q36u
 - hospital
 - hospitals
 
-## synonym:9wzi-peqs
-- home health agency
-- home health agencies
-
-## synonym:b27b-2uc7
-- nursing home
-- nursing homes
+## regex:location
+- [0-9]{5}
