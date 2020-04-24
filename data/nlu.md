@@ -5,6 +5,7 @@
 - good morning
 - good evening
 - හායි....ඔයාට කොහොම්ද?
+- hy
 
 ## intent:goodbye
 - bye
