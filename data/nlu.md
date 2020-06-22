@@ -40,6 +40,7 @@
 - I am feeling very good
 - I am great
 - I'm good
+- මම හොදින්
 
 ## intent:mood_unhappy
 - sad
