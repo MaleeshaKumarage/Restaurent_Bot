@@ -12,12 +12,14 @@ intents:
 - Food_Ordering_general
 - Food_Ordering_With_Food_Type
 - Food_Ordering_With_Food_Type_and_Qty
+- Food_Ordering_With_Time
 - About_Restaurant
 - Get_In_Touch
 - FAQ
 entities:
 - food_type
 - qty
+- time
 responses:
   utter_greet:
   - text: හායි....ඔයාට කොහොම්ද?
@@ -34,11 +36,14 @@ responses:
   - text: I am a bot, Created by Maleesha Kumarage
   utter_Food_Ordering_General:
   - text: ඔබට ඒ සම්බන්දව දැනගැනීමට අවශ්ය මොනවාද?
-  Food_Ordering_With_Food_Type:
+  utter_Food_Ordering_With_Food_Type:
   - text: ඔබට අවශ්යය කොපමණ ප්‍රමාණයක්ද ?
-  Food_Ordering_With_Food_Type_and_Qty:
+  utter_Food_Ordering_With_Food_Type_and_Qty:
   - text: ඔබට මීට අමතරව වෙනත් යමක් අවශයයද ?
-actions:
+  utter_Food_Ordering_With_Time:
+    - text: ඔබට මිලදී ගැනීමට අවශ්යය මොනවාද ?
+
+    actions:
 - utter_greet
 - utter_cheer_up
 - utter_did_that_help
@@ -46,5 +51,6 @@ actions:
 - utter_goodbye
 - utter_iamabot
 - utter_Food_Ordering_General
-- Food_Ordering_With_Food_Type
-- Food_Ordering_With_Food_Type_and_Qty
+- utter_Food_Ordering_With_Food_Type
+- utter_Food_Ordering_With_Food_Type_and_Qty
+- utter_Food_Ordering_With_Time
