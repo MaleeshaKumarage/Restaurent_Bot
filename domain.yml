@@ -34,6 +34,10 @@ responses:
   - text: I am a bot, Created by Maleesha Kumarage
   utter_Food_Ordering_General:
   - text: ඔබට ඒ සම්බන්දව දැනගැනීමට අවශ්ය මොනවාද?
+  Food_Ordering_With_Food_Type:
+  - text: ඔබට අවශ්යය කොපමණ ප්‍රමාණයක්ද ?
+  Food_Ordering_With_Food_Type_and_Qty:
+  - text: ඔබට මීට අමතරව වෙනත් යමක් අවශයයද ?
 actions:
 - utter_greet
 - utter_cheer_up
@@ -42,3 +46,5 @@ actions:
 - utter_goodbye
 - utter_iamabot
 - utter_Food_Ordering_General
+- Food_Ordering_With_Food_Type
+- Food_Ordering_With_Food_Type_and_Qty
