@@ -13,6 +13,9 @@ intents:
 - About_Restaurant
 - Get_In_Touch
 - FAQ
+entities:
+- food_type
+- qty
 responses:
   utter_greet:
   - text: හායි....ඔයාට කොහොම්ද?
@@ -22,13 +25,16 @@ responses:
   utter_did_that_help:
   - text: Did that help you?
   utter_happy:
-  - text: Great, carry on!
+  - text: මට ඔබට සහය විය හැක්කේ කෙසේද?
   utter_goodbye:
   - text: Bye
   utter_iamabot:
   - text: I am a bot, powered by Rasa.
   utter_Food_Ordering:
-    - text: ඔබට ඇනවුම් කිරීමට අවශ්යය මොනවාද?
+
+  - text: මට ඔබට සහය විය හැක්කේ කෙසේද ?
+  - text: ඔබට ඇනවුම් කිරීමට අවශ්යය මොනවාද?
+
 actions:
 - utter_greet
 - utter_cheer_up

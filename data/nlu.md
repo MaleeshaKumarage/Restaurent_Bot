@@ -40,6 +40,7 @@
 - I am feeling very good
 - I am great
 - I'm good
+- මම හොදින්
 
 ## intent:mood_unhappy
 - sad
@@ -98,3 +99,6 @@
 - මම උබලාගේ අවන්හලේ පාරිබෝගික සේවා මහතෙකු හා සම්බන්ද වීමට කැමතියි.
 - මම කැමතී උබලාගෙ අවන්හල සමග සම්බන්ද වී සිටින්න.
 - මම කොහොමද ඔබලා සමග සම්බන්ද වෙන්නේ?
+
+## lookup:food-type.txt
+  data/food-type.txt
