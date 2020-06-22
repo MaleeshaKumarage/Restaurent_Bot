@@ -31,7 +31,10 @@ responses:
   utter_iamabot:
   - text: I am a bot, powered by Rasa.
   utter_Food_Ordering:
+
   - text: මට ඔබට සහය විය හැක්කේ කෙසේද ?
+  - text: ඔබට ඇනවුම් කිරීමට අවශ්යය මොනවාද?
+
 actions:
 - utter_greet
 - utter_cheer_up
