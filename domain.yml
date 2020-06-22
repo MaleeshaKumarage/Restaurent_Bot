@@ -27,6 +27,8 @@ responses:
   - text: Bye
   utter_iamabot:
   - text: I am a bot, powered by Rasa.
+  utter_Food_Ordering:
+    - text: මට ඔබට සහය විය හැක්කේ කෙසේද ?
 actions:
 - utter_greet
 - utter_cheer_up
@@ -34,3 +36,4 @@ actions:
 - utter_happy
 - utter_goodbye
 - utter_iamabot
+- utter_Food_Ordering
