@@ -9,16 +9,21 @@ intents:
 - mood_great
 - mood_unhappy
 - bot_challenge
-- Food_Ordering
+- Food_Ordering_general
+- Food_Ordering_With_Food_Type
+- Food_Ordering_With_Food_Type_and_Qty
 - About_Restaurant
 - Get_In_Touch
 - FAQ
+entities:
+- food_type
+- qty
 responses:
   utter_greet:
   - text: හායි....ඔයාට කොහොම්ද?
   utter_cheer_up:
-  - text: 'Here is something to cheer you up:'
-    image: https://i.imgur.com/nGF1K8f.jpg
+  - image: https://i.imgur.com/nGF1K8f.jpg
+    text: 'Here is something to cheer you up:'
   utter_did_that_help:
   - text: Did that help you?
   utter_happy:
@@ -26,8 +31,8 @@ responses:
   utter_goodbye:
   - text: Bye
   utter_iamabot:
-  - text: I am a bot, powered by Rasa.
-  utter_Food_Ordering:
+  - text: I am a bot, Created by Maleesha Kumarage
+  utter_Food_Ordering_General:
   - text: ඔබට ඒ සම්බන්දව දැනගැනීමට අවශ්ය මොනවාද?
 actions:
 - utter_greet
@@ -36,4 +41,4 @@ actions:
 - utter_happy
 - utter_goodbye
 - utter_iamabot
-- utter_Food_Ordering
+- utter_Food_Ordering_General
