@@ -15,6 +15,9 @@ intents:
 - About_Restaurant
 - Get_In_Touch
 - FAQ
+entities:
+- food_type
+- qty
 responses:
   utter_greet:
   - text: හායි....ඔයාට කොහොම්ද?
@@ -32,7 +35,7 @@ responses:
   utter_iamabot:
   - text: I am a bot, created by maleesha.
   utter_Food_Ordering:
-    - text: ඔබට ඇනවුම් කිරීමට අවශ්යය මොනවාද?
+  - text: ඔබට ඇනවුම් කිරීමට අවශ්යය මොනවාද?
 
 actions:
 - utter_greet
