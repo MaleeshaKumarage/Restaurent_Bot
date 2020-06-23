@@ -29,7 +29,7 @@ responses:
   utter_did_that_help:
   - text: Did that help you?
   utter_happy:
-  - text: Great, carry on!
+  - text: මට ඔබට සහය විය හැක්කේ කෙසේද?
   utter_goodbye:
   - text: Bye
   utter_iamabot:
