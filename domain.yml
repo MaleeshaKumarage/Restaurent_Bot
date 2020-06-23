@@ -27,19 +27,25 @@ responses:
   - image: https://i.imgur.com/nGF1K8f.jpg
     text: 'Here is something to cheer you up:'
   utter_did_that_help:
-  - text: Did that help you?
+  - text: එය ඔබට උපකාරී උනාද ?
   utter_happy:
   - text: මට ඔබට සහය විය හැක්කේ කෙසේද?
   utter_goodbye:
-  - text: Bye
+  - text: බායි
   utter_iamabot:
-  - text: I am a bot, created by maleesha.
+  - text: ඔව්,මම බොට් කෙනෙක්.
   utter_Food_Ordering:
   - text: ඔබට ඇනවුම් කිරීමට අවශ්යය මොනවාද?
   utter_Food_ordering_with_Food_Name_And_Qty:
-  - text: dfsfsfsfsrfs
+  - text: එය සිදු කල හැකියි
   utter_Food_Ordering_with_Food_Name:
   - text: ඔබට අවශ්යය කොපමන ප්‍රමාණයක්ද ?
+  utter_Order_Accepted:
+  - text: එය සිදු කල හැකියි.
+  utter_ask_qty:
+  - text: ඔබට අවශ්යය කොපමන ප්‍රමාණයක්ද
+  utter_ask_Food_Name:
+  - text: ඔබට අවශ්යය මොනවාද
 actions:
 - utter_greet
 - utter_cheer_up
@@ -50,3 +56,6 @@ actions:
 - utter_Food_Ordering
 - utter_Food_ordering_with_Food_Name_And_Qty
 - utter_Food_Ordering_with_Food_Name
+- utter_Order_Accepted
+- utter_ask_qty
+- utter_ask_Food_Name
