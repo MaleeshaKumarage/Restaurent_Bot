@@ -10,6 +10,8 @@ intents:
 - mood_unhappy
 - bot_challenge
 - Food_Ordering
+- Food_Ordering_with_Food_Name
+- Food_ordering_with_Food_Name_And_Qty
 - About_Restaurant
 - Get_In_Touch
 - FAQ
