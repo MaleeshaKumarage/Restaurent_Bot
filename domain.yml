@@ -45,5 +45,4 @@ actions:
 - utter_goodbye
 - utter_iamabot
 - utter_Food_Ordering
-- utter_Food_Ordering_with_Food_Name
-- utter_Food_ordering_with_Food_Name_And_Qty
+
