@@ -110,8 +110,8 @@
 - මම කොහොමද ඔබලා සමග සම්බන්ද වෙන්නේ?
 
 ## intent:Food_Ordering_with_Food_Name
-- මට [කොත්තු](food_type) මිලදී ගැනීමට අවශ්යයි
-- මට [පාන්](food_type) මිලදී ගැනීමට අවශ්යයි
+- මට කොත්තු මිලදී ගැනීමට අවශ්යයි
+- මට පාන් මිලදී ගැනීමට අවශ්යයි
 
 ## lookup:food-type.txt
   data/food-type.txt
