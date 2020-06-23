@@ -16,6 +16,8 @@ intents:
 responses:
   utter_greet:
   - text: හායි....ඔයාට කොහොම්ද?
+  - text: කොහොමද ඉතින්?
+  - text: කොහොමද ඉතින් ඔයාට?
   utter_cheer_up:
   - image: https://i.imgur.com/nGF1K8f.jpg
     text: 'Here is something to cheer you up:'
