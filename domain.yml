@@ -26,7 +26,7 @@ responses:
   utter_goodbye:
   - text: Bye
   utter_iamabot:
-  - text: I am a bot, powered by Rasa.
+  - text: I am a bot, created by maleesha.
   utter_Food_Ordering:
     - text: ඔබට ඇනවුම් කිරීමට අවශ්යය මොනවාද?
 actions:

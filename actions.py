@@ -13,7 +13,8 @@
 # from rasa_sdk.executor import CollectingDispatcher
 #
 #
-# class ActionHelloWorld(Action):
+# class ActionHelloWor
+# ld(Action):
 #
 #     def name(self) -> Text:
 #         return "action_hello_world"
