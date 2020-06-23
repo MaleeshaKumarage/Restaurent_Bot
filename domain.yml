@@ -33,10 +33,7 @@ responses:
   - text: I am a bot, created by maleesha.
   utter_Food_Ordering:
     - text: ඔබට ඇනවුම් කිරීමට අවශ්යය මොනවාද?
-  utter_Food_Ordering:
-    - text: ඔබට 
-  utter_Food_Ordering:
-    - text: ඔබට ඇනවුම් 
+
 actions:
 - utter_greet
 - utter_cheer_up
