@@ -36,7 +36,8 @@ responses:
   - text: I am a bot, created by maleesha.
   utter_Food_Ordering:
   - text: ඔබට ඇනවුම් කිරීමට අවශ්යය මොනවාද?
-
+  utter_Food_ordering_with_Food_Name_And_Qty:
+  - text: dfsfsfsfsrfs
 actions:
 - utter_greet
 - utter_cheer_up
@@ -45,4 +46,4 @@ actions:
 - utter_goodbye
 - utter_iamabot
 - utter_Food_Ordering
-
+- utter_Food_ordering_with_Food_Name_And_Qty
