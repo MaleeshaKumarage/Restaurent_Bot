@@ -63,3 +63,25 @@
 
 * Food_Ordering_with_Food_Name
     - utter_Food_Ordering_with_Food_Name
+
+## New Story
+
+* greet
+    - utter_greet
+* mood_great
+    - utter_happy
+* Food_Ordering_with_Food_Name
+    - utter_Food_Ordering_with_Food_Name
+* goodbye
+    - utter_goodbye
+
+## New Story
+
+* greet
+    - utter_greet
+* mood_great
+    - utter_happy
+* Food_Ordering
+    - utter_Food_Ordering
+* deny
+    - utter_goodbye

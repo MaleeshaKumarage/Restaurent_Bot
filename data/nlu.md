@@ -9,6 +9,7 @@
 - කොහොමද
 - හලෝ
 - hai
+- හායි
 
 ## intent:goodbye
 - bye
