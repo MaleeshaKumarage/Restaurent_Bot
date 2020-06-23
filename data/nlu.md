@@ -46,6 +46,7 @@
 - I'm good
 - මම හොදින්
 - හොදයි
+- අවුලක් නෑ
 
 ## intent:mood_unhappy
 - sad
