@@ -51,6 +51,7 @@
 - හොදයි
 - අවුලක් නෑ
 - සැපේ ඉන්නෙ
+- avulak nAa
 
 ## intent:mood_unhappy
 - sad
