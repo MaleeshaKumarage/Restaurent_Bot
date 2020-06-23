@@ -39,7 +39,7 @@ responses:
   utter_Food_ordering_with_Food_Name_And_Qty:
   - text: dfsfsfsfsrfs
   utter_Food_Ordering_with_Food_Name:
-  - text: xxxxxx
+  - text: ඔබට අවශ්යය කොපමන ප්‍රමාණයක්ද ?
 actions:
 - utter_greet
 - utter_cheer_up

@@ -112,6 +112,7 @@
 ## intent:Food_Ordering_with_Food_Name
 - මට කොත්තු මිලදී ගැනීමට අවශ්යයි
 - මට පාන් මිලදී ගැනීමට අවශ්යයි
+- මට පාන් මිලදී ගැනීමට ඇවශ්යයි
 
 ## lookup:food-type.txt
   data/food-type.txt
