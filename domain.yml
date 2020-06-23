@@ -46,6 +46,8 @@ responses:
   - text: ඔබට අවශ්යය කොපමන ප්‍රමාණයක්ද
   utter_ask_Food_Name:
   - text: ඔබට අවශ්යය මොනවාද
+  utter_Do_you_want_anything_else:
+  - text: ඔබට වෙනත් යමක් අවශ්යද?
 actions:
 - utter_greet
 - utter_cheer_up
@@ -59,3 +61,4 @@ actions:
 - utter_Order_Accepted
 - utter_ask_qty
 - utter_ask_Food_Name
+- utter_Do_you_want_anything_else

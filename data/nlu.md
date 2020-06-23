@@ -65,6 +65,7 @@
 - are you a human?
 - am I talking to a bot?
 - am I talking to a human?
+- ඔබ කව්ද
 
 ## intent:Food_Ordering
 - අහාර ඇණවුම් කිරීම හා සම්බන්ද විස්තර මට දැනගැනීමට අවශ්‍යයි.
