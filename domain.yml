@@ -38,6 +38,8 @@ responses:
   - text: ඔබට ඇනවුම් කිරීමට අවශ්යය මොනවාද?
   utter_Food_ordering_with_Food_Name_And_Qty:
   - text: dfsfsfsfsrfs
+  utter_Food_Ordering_with_Food_Name:
+  - text: xxxxxx
 actions:
 - utter_greet
 - utter_cheer_up
@@ -47,3 +49,4 @@ actions:
 - utter_iamabot
 - utter_Food_Ordering
 - utter_Food_ordering_with_Food_Name_And_Qty
+- utter_Food_Ordering_with_Food_Name
