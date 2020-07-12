@@ -33,10 +33,6 @@ responses:
   - text: ඔබට ඇනවුම් කිරීමට අවශ්යය මොනවාද?
   utter_Order_Accepted:
   - text: එය සිදු කල හැකියි.
-  utter_ask_qty:
-  - text: ඔබට අවශ්යය කොපමන ප්‍රමාණයක්ද
-  utter_ask_Food_Name:
-  - text: ඔබට අවශ්යය මොනවාද
   utter_Do_you_want_anything_else:
   - text: ඔබට වෙනත් යමක් අවශ්යද?
 actions:
@@ -47,7 +43,6 @@ actions:
 - utter_iamabot
 - utter_Food_Ordering
 - utter_Order_Accepted
+- utter_Do_you_want_anything_else
 - utter_ask_qty
 - utter_ask_Food_Name
-- utter_Do_you_want_anything_else
-
