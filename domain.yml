@@ -13,9 +13,7 @@ intents:
 - About_Restaurant
 - Get_In_Touch
 - FAQ
-entities:
-- food_type
-- qty
+
 responses:
   utter_greet:
   - text: හායි....ඔයාට කොහොම්ද?
