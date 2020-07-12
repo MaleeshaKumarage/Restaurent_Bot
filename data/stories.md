@@ -50,30 +50,10 @@
 * Food_Ordering
     - utter_Food_Ordering
 
-## undefined
 
-* greet
-    - utter_greet
-* mood_great
-    - utter_happy
-* Food_Ordering_with_Food_Name
-    - utter_Food_Ordering_with_Food_Name
 
-## New Story
 
-* Food_Ordering_with_Food_Name
-    - utter_Food_Ordering_with_Food_Name
 
-## New Story
-
-* greet
-    - utter_greet
-* mood_great
-    - utter_happy
-* Food_Ordering_with_Food_Name
-    - utter_Food_Ordering_with_Food_Name
-* goodbye
-    - utter_goodbye
 
 ## New Story
 
@@ -86,24 +66,8 @@
 * deny
     - utter_goodbye
 
-## New Story
 
-* greet
-    - utter_greet
-* mood_great
-    - utter_happy
-* Food_ordering_with_Food_Name_And_Qty
-    - utter_Food_Ordering_with_Food_Name
-    - utter_Food_ordering_with_Food_Name_And_Qty
 
-## undefined
-
-* greet
-    - utter_greet
-* mood_great
-    - utter_happy
-* Food_ordering_with_Food_Name_And_Qty
-    - utter_Food_ordering_with_Food_Name_And_Qty
 
 ## New Story
 
@@ -114,16 +78,3 @@
 * bot_challenge
     - utter_iamabot
 
-## undefined
-
-* greet
-    - utter_greet
-* mood_great
-    - utter_happy
-* Food_Ordering
-    - utter_Food_Ordering
-* Food_Ordering_with_Food_Name
-    - utter_Food_Ordering_with_Food_Name
-* deny
-    - utter_Order_Accepted
-    - utter_goodbye
