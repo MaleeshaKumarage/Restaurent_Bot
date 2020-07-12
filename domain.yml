@@ -13,9 +13,6 @@ intents:
 - About_Restaurant
 - Get_In_Touch
 - FAQ
-entities:
-- food_type
-- qty
 responses:
   utter_greet:
   - text: හායි....ඔයාට කොහොම්ද?
@@ -49,7 +46,6 @@ actions:
 - utter_goodbye
 - utter_iamabot
 - utter_Food_Ordering
-
 - utter_Order_Accepted
 - utter_ask_qty
 - utter_ask_Food_Name
