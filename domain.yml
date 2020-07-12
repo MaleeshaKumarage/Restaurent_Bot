@@ -23,6 +23,7 @@ responses:
   - text: හායි....ඔයාට කොහොම්ද?
   - text: කොහොමද ඉතින්?
   - text: කොහොමද ඉතින් ඔයාට?
+  - text: හායි
   utter_did_that_help:
   - text: එය ඔබට උපකාරී උනාද ?
   utter_happy:
@@ -51,7 +52,6 @@ actions:
 - utter_goodbye
 - utter_iamabot
 - utter_Food_Ordering
-
 - utter_Order_Accepted
 - utter_ask_qty
 - utter_ask_Food_Name
