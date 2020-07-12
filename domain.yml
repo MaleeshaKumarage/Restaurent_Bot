@@ -31,7 +31,11 @@ responses:
   - text: ඔව්,මම බොට් කෙනෙක්.
   utter_Food_Ordering:
   - text: ඔබට ඇනවුම් කිරීමට අවශ්යය මොනවාද?
-   utter_Order_Accepted:
+  utter_Food_ordering_with_Food_Name_And_Qty:
+  - text: එය සිදු කල හැකියි
+  utter_Food_Ordering_with_Food_Name:
+  - text: ඔබට අවශ්යය කොපමන ප්‍රමාණයක්ද ?
+  utter_Order_Accepted:
   - text: එය සිදු කල හැකියි.
   utter_ask_qty:
   - text: ඔබට අවශ්යය කොපමන ප්‍රමාණයක්ද
@@ -46,9 +50,9 @@ actions:
 - utter_goodbye
 - utter_iamabot
 - utter_Food_Ordering
-- utter_Food_ordering_with_Food_Name_And_Qty
-- utter_Food_Ordering_with_Food_Name
 - utter_Order_Accepted
 - utter_ask_qty
 - utter_ask_Food_Name
 - utter_Do_you_want_anything_else
+- utter_Food_ordering_with_Food_Name_And_Qty
+- utter_Food_Ordering_with_Food_Name
