@@ -126,5 +126,3 @@
 ## lookup:food-type.txt
   data/food-type.txt
 
-## lookup:food-type.txt
-  data/food-type.txt
