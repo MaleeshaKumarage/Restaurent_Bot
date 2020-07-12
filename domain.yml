@@ -44,5 +44,3 @@ actions:
 - utter_Food_Ordering
 - utter_Order_Accepted
 - utter_Do_you_want_anything_else
-- utter_ask_qty
-- utter_ask_Food_Name
