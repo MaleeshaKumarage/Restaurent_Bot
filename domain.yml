@@ -31,10 +31,8 @@ responses:
   - text: ඔව්,මම බොට් කෙනෙක්.
   utter_Food_Ordering:
   - text: ඔබට ඇනවුම් කිරීමට අවශ්යය මොනවාද?
-  utter_Order_Accepted:
-  - text: එය සිදු කල හැකියි.
-  utter_Do_you_want_anything_else:
-  - text: ඔබට වෙනත් යමක් අවශ්යද?
+
+
 actions:
 - utter_greet
 - utter_did_that_help
@@ -42,5 +40,4 @@ actions:
 - utter_goodbye
 - utter_iamabot
 - utter_Food_Ordering
-- utter_Order_Accepted
-- utter_Do_you_want_anything_else
+
