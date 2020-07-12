@@ -47,7 +47,6 @@ responses:
   - text: ඔබට වෙනත් යමක් අවශ්යද?
 actions:
 - utter_greet
-- utter_cheer_up
 - utter_did_that_help
 - utter_happy
 - utter_goodbye
