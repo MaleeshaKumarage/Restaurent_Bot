@@ -45,6 +45,8 @@ responses:
   - text: ඔබට අවශ්යය මොනවාද
   utter_Do_you_want_anything_else:
   - text: ඔබට වෙනත් යමක් අවශ්යද?
+  utter_cheer_up:
+  - text: aaaaa
 actions:
 - utter_greet
 - utter_cheer_up
