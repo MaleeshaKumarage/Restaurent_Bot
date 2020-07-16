@@ -13,6 +13,8 @@
 - මචං
 - අඩෝ
 - හෙලෝ
+- haay
+- haayi
 
 ## intent:goodbye
 - bye
@@ -37,6 +39,28 @@
 - හොදයී
 - fedfdf
 - gfgg
+- Zxcvbnm
+- fd
+- df
+- fdf
+- dfdfd
+- dfdf
+- asdd
+- sdsd
+- dsdsds
+- ddsdsd
+- mama kanm
+- dsdddadsd
+- mamam
+- mama malee
+- maleedsddzddd
+- 12
+- mama kanavaa
+- mamama
+- sasa
+- hgh
+- fsf
+- AAA
 
 ## intent:mood_great
 - perfect
@@ -71,6 +95,7 @@
 - am I talking to a bot?
 - am I talking to a human?
 - ඔබ කව්ද
+- who are you
 
 ## intent:Food_Ordering
 - අහාර ඇණවුම් කිරීම හා සම්බන්ද විස්තර මට දැනගැනීමට අවශ්‍යයි.
@@ -113,6 +138,21 @@
 - සීනි සම්බෝල සැන්ඩ්විච්
 - එලවලු සමෝසා
 - එලවලු පේස්ට්‍රි
+- මට පාන් ඔන
+- මට පාන් මිලදී ගැනීමට ඔන
+- මට සමොසා ගන්න ඔන
+- මට සමොසා ගන්න ඔන.
+- මට පාන් ගන්න ona
+- සමෝසා
+- පේස්ට්‍රි
+- mata keak ganna ona
+- මට පාන් ඌන
+- මට  බනිස්   ගන්න ඔන
+- මට පාන් ගන්න ඔන
+- බනිස්
+- මට  බනිස්     මිලදී ගන්න ඔන
+- මට පාන් මිලදී ගන්න ඔන
+- මට බනිස් මිලදී ගන්න ඔන
 
 ## intent:FAQ
 - ඔබගේ අවන්හලේ රැකියා අවස්තා තියෙනවද?
@@ -139,6 +179,18 @@
 - මම උබලාගේ අවන්හලේ පාරිබෝගික සේවා මහතෙකු හා සම්බන්ද වීමට කැමතියි.
 - මම කැමතී උබලාගෙ අවන්හල සමග සම්බන්ද වී සිටින්න.
 - මම කොහොමද ඔබලා සමග සම්බන්ද වෙන්නේ?
+
+## intent:Created_By
+- කවුද ඔයාව හැදුවේ
+
+## intent:What_Can_You_Do
+- මොනවද ඔයාට කරන්න පුලුවන්
+-  මොනවද ඔයාගෙ හැකියාවන්
+- ඔයාට කොහොම්ද මට උදව් කරන්න පුලුවන්
+
+## intent:How_Are_You
+- ඔයාට කොහොමද ?
+- ඔයා හොදින් ද?
 
 ## lookup:food-type.txt
   data/food-type.txt
