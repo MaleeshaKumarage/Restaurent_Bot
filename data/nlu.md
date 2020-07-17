@@ -13,8 +13,11 @@
 - මචං
 - අඩෝ
 - හෙලෝ
+<<<<<<< HEAD
 - haay
 - haayi
+=======
+>>>>>>> dab235776e918e3dbcc0a8d7a7462ebed012a023
 
 ## intent:goodbye
 - bye
@@ -39,6 +42,7 @@
 - හොදයී
 - fedfdf
 - gfgg
+<<<<<<< HEAD
 - Zxcvbnm
 - fd
 - df
@@ -61,6 +65,8 @@
 - hgh
 - fsf
 - AAA
+=======
+>>>>>>> dab235776e918e3dbcc0a8d7a7462ebed012a023
 
 ## intent:mood_great
 - perfect
@@ -95,7 +101,10 @@
 - am I talking to a bot?
 - am I talking to a human?
 - ඔබ කව්ද
+<<<<<<< HEAD
 - who are you
+=======
+>>>>>>> dab235776e918e3dbcc0a8d7a7462ebed012a023
 
 ## intent:Food_Ordering
 - අහාර ඇණවුම් කිරීම හා සම්බන්ද විස්තර මට දැනගැනීමට අවශ්‍යයි.
@@ -116,7 +125,7 @@
 - මට ආහර ඇනවුම් කිර්‍රිමට ඇව්ශ්යයි
 - මම කන්න යනවා
 - මට කෑම ගන්න oena
-- මාලු පාන්
+- [මාලු පාන්](Food_Type)
 - [සුදු ලූනු රසැති පාන්](Food_Type)
 - [බටර් රසැති පාන්](Food_Type)
 - [චීස් රසැතී පාන්](Food_Type)
@@ -180,6 +189,7 @@
 - මම කැමතී උබලාගෙ අවන්හල සමග සම්බන්ද වී සිටින්න.
 - මම කොහොමද ඔබලා සමග සම්බන්ද වෙන්නේ?
 
+<<<<<<< HEAD
 ## intent:Created_By
 - කවුද ඔයාව හැදුවේ
 
@@ -191,6 +201,10 @@
 ## intent:How_Are_You
 - ඔයාට කොහොමද ?
 - ඔයා හොදින් ද?
+=======
+## lookup:food-type.txt
+  data/food-type.txt
+>>>>>>> dab235776e918e3dbcc0a8d7a7462ebed012a023
 
 ## lookup:food-type.txt
   data/food-type.txt
