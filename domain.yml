@@ -14,14 +14,11 @@ intents:
 - Get_In_Touch
 - FAQ
 
-<<<<<<< HEAD
 entities:
   - Food_Type
   - Qty
   
 
-=======
->>>>>>> dab235776e918e3dbcc0a8d7a7462ebed012a023
 responses:
   utter_greet:
   - text: හායි....ඔයාට කොහොම්ද?
