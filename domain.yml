@@ -13,11 +13,12 @@ intents:
 - About_Restaurant
 - Get_In_Touch
 - FAQ
-slots:
-  food_type:
-    type:text
-  qty:
-    type:text
+
+entities:
+  - Food_Type
+  - Qty
+  
+
 responses:
   utter_greet:
   - text: හායි....ඔයාට කොහොම්ද?
@@ -31,7 +32,7 @@ responses:
   utter_goodbye:
   - text: බායි
   utter_iamabot:
-  - text: ඔව්,මම බොට් කෙනෙක්.
+  - text: මම බොට් කෙනෙක්.
   utter_Food_Ordering:
   - text: ඔබට ඇනවුම් කිරීමට අවශ්යය මොනවාද?
   utter_Order_Accepted:
