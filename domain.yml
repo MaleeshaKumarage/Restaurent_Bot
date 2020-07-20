@@ -2,7 +2,6 @@ session_config:
   session_expiration_time: 60
   carry_over_slots_to_new_session: true
 intents:
-- greet
 - goodbye
 - affirm
 - deny
@@ -16,6 +15,11 @@ intents:
 - Created_By
 - How_Are_You
 - What_Can_You_Do
+- ask_time
+- im_bored
+- what_is
+- who_is_maleesha
+- greet
 entities:
 - Food_Type
 responses:
