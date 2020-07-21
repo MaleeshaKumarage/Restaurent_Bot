@@ -81,6 +81,7 @@
 - අවුලක් නෑ
 - සැපේ ඉන්නෙ
 - avulak nAa
+- සුභ උදෑසනක් වේවා
 
 ## intent:mood_unhappy
 - sad
