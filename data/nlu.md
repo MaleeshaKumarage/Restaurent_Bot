@@ -18,6 +18,7 @@
 - හෙලෝ බොට්
 - බායි
 - ස්තූතියි
+- Helo
 
 ## intent:goodbye
 - bye
@@ -81,30 +82,9 @@
 - අවුලක් නෑ
 - සැපේ ඉන්නෙ
 - avulak nAa
-- සුභ උදෑසනක් වේවා
-
-## intent:mood_unhappy
-- sad
-- very sad
-- unhappy
-- bad
-- very bad
-- awful
-- terrible
-- not very good
-- extremely sad
-- so sad
-
-## intent:bot_challenge
-- are you a bot?
-- are you a human?
-- am I talking to a bot?
-- am I talking to a human?
-- ඔබ කව්ද
-- who are you
-- ඔයා කව්ද
 
 ## intent:Food_Ordering
+- සුභ උදෑසනක් වේවා
 - අහාර ඇණවුම් කිරීම හා සම්බන්ද විස්තර මට දැනගැනීමට අවශ්‍යයි.
 - අහාර ඇණවුම් කිරීමීදි අයගන්නා මුදල් පිලිබද දැනගැනීමට අවශ්‍යයී.
 - ඔබගේ අවන්හලේ අහාර ඇණවුම් කීරීමෙ හැකියාවක් පවතීද?
@@ -163,6 +143,28 @@
 - [චීස්](Food_Type)
 - ටිපිටිප්
 
+## intent:mood_unhappy
+- sad
+- very sad
+- unhappy
+- bad
+- very bad
+- awful
+- terrible
+- not very good
+- extremely sad
+- so sad
+
+## intent:bot_challenge
+- are you a bot?
+- are you a human?
+- am I talking to a bot?
+- am I talking to a human?
+- ඔබ කව්ද
+- who are you
+- ඔයා කව්ද
+- මොකක්ද ඔයාගෙ නම
+
 ## intent:FAQ
 - ඔබගේ අවන්හලේ රැකියා අවස්තා තියෙනවද?
 - ඔයලාගේ අවන්හලේ රැකියාවක් කිරිමට මම කැමතියි.
@@ -197,6 +199,7 @@
 - මොනවද ඔයාගෙ හැකියාවන්
 - ඔයාට කොහොම්ද මට උදව් කරන්න පුලුවන්
 - මට ඔබ ගැන කියන්න
+- ඔයාගෙ රාජකාරිය මොකද්ද ?
 
 ## intent:How_Are_You
 - ඔයාට කොහොමද ?
