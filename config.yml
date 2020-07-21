@@ -1,6 +1,8 @@
 language: si
 pipeline:
-- name: WhitespaceTokenizer
+- name: SpacyNLP
+- name: SpacyTokenizer
+- name: SpacyFeaturizer
 - name: RegexFeaturizer
 - name: LexicalSyntacticFeaturizer
 - name: CountVectorsFeaturizer
