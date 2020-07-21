@@ -13,11 +13,8 @@
 - මචං
 - අඩෝ
 - හෙලෝ
-<<<<<<< HEAD
 - haay
 - haayi
-=======
->>>>>>> dab235776e918e3dbcc0a8d7a7462ebed012a023
 
 ## intent:goodbye
 - bye
@@ -42,7 +39,6 @@
 - හොදයී
 - fedfdf
 - gfgg
-<<<<<<< HEAD
 - Zxcvbnm
 - fd
 - df
@@ -65,8 +61,6 @@
 - hgh
 - fsf
 - AAA
-=======
->>>>>>> dab235776e918e3dbcc0a8d7a7462ebed012a023
 
 ## intent:mood_great
 - perfect
@@ -82,6 +76,7 @@
 - අවුලක් නෑ
 - සැපේ ඉන්නෙ
 - avulak nAa
+- සුභ උදෑසනක් වේවා
 
 ## intent:mood_unhappy
 - sad
@@ -101,10 +96,7 @@
 - am I talking to a bot?
 - am I talking to a human?
 - ඔබ කව්ද
-<<<<<<< HEAD
 - who are you
-=======
->>>>>>> dab235776e918e3dbcc0a8d7a7462ebed012a023
 
 ## intent:Food_Ordering
 - අහාර ඇණවුම් කිරීම හා සම්බන්ද විස්තර මට දැනගැනීමට අවශ්‍යයි.
@@ -162,6 +154,10 @@
 - මට  බනිස්     මිලදී ගන්න ඔන
 - මට පාන් මිලදී ගන්න ඔන
 - මට බනිස් මිලදී ගන්න ඔන
+- [එලවලු සමෝසා](Food_Type) තියනවාද?
+- [කිඹුල බනිස්](Food_Type) තියනවාද?
+- [කිඹල බනිස්](Food_Type) තියනවාද?
+- [කිඹුල බනිස](Food_Type)[කිඹුල](Food_Type) බනිස තියනවාද?
 
 ## intent:FAQ
 - ඔබගේ අවන්හලේ රැකියා අවස්තා තියෙනවද?
@@ -189,22 +185,14 @@
 - මම කැමතී උබලාගෙ අවන්හල සමග සම්බන්ද වී සිටින්න.
 - මම කොහොමද ඔබලා සමග සම්බන්ද වෙන්නේ?
 
-<<<<<<< HEAD
 ## intent:Created_By
 - කවුද ඔයාව හැදුවේ
 
 ## intent:What_Can_You_Do
 - මොනවද ඔයාට කරන්න පුලුවන්
--  මොනවද ඔයාගෙ හැකියාවන්
+- මොනවද ඔයාගෙ හැකියාවන්
 - ඔයාට කොහොම්ද මට උදව් කරන්න පුලුවන්
 
 ## intent:How_Are_You
 - ඔයාට කොහොමද ?
 - ඔයා හොදින් ද?
-=======
-## lookup:food-type.txt
-  data/food-type.txt
->>>>>>> dab235776e918e3dbcc0a8d7a7462ebed012a023
-
-## lookup:food-type.txt
-  data/food-type.txt
