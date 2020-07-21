@@ -18,7 +18,6 @@ intents:
 - ask_time
 - im_bored
 - what_is
-- who_is_maleesha
 - greet
 entities:
 - Food_Type
