@@ -1,4 +1,4 @@
-language: si
+language: en
 pipeline:
 - name: SpacyNLP
 - name: SpacyTokenizer
