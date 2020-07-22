@@ -15,6 +15,7 @@ intents:
 - Created_By
 - How_Are_You
 - What_Can_You_Do
+- what_is
 entities:
 - Food_Type
 responses:
@@ -23,24 +24,12 @@ responses:
   - text: කොහොමද ඉතින්?
   - text: කොහොමද ඉතින් ඔයාට?
   - text: හායි
-  utter_did_that_help:
-  - text: එය ඔබට උපකාරී උනාද ?
   utter_happy:
   - text: මට ඔබට සහය විය හැක්කේ කෙසේද?
   utter_goodbye:
   - text: බායි
   utter_iamabot:
   - text: මම බොට් කෙනෙක්.
-  utter_Food_Ordering:
-  - text: ඔබට ඇනවුම් කිරීමට අවශ්යය මොනවාද?
-  utter_Order_Accepted:
-  - text: එය සිදු කල හැකියි.
-  utter_ask_qty:
-  - text: ඔබට අවශ්යය කොපමන ප්‍රමාණයක්ද
-  utter_ask_Food_Name:
-  - text: ඔබට අවශ්යය මොනවාද
-  utter_Do_you_want_anything_else:
-  - text: ඔබට වෙනත් යමක් අවශ්යද?
   utter_cheer_up:
   - text: aaaaa
 actions:
