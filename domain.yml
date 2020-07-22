@@ -18,6 +18,7 @@ intents:
 - what_is
 entities:
 - Food_Type
+- search_Type
 responses:
   utter_greet:
   - text: හායි....ඔයාට කොහොම්ද?
