@@ -104,7 +104,7 @@
 - [පේස්ට්‍රි](Food_Type)
 - mata keak ganna ona
 - මට [පාන්](Food_Type) ඔන
-- මට [බනිස් ](Food_Type) ගන්න ඔන
+- මට [බනිස්](Food_Type) ගන්න ඔන
 - මට [පාන්](Food_Type) ගන්න ඔන
 - [බනිස්](Food_Type)
 - මට [බනිස්](Food_Type) මිලදී ගන්න ඔන
