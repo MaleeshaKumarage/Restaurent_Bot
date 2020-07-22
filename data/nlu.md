@@ -1,102 +1,58 @@
 ## intent:greet
-- hey
-- hello
-- hi
-- good morning
-- good evening
 - හායි....ඔයාට කොහොම්ද?
-- hy
 - කොහොමද
 - හලෝ
-- hai
 - හායි
 - මචං
 - අඩෝ
 - හෙලෝ
-- haay
-- haayi
+- ආයුබෝවන්
+
 
 ## intent:goodbye
-- bye
-- goodbye
-- see you around
-- see you later
+- බායි
+- පසුව හමුවෙමු
 
 ## intent:affirm
-- yes
-- indeed
-- of course
-- that sounds good
-- correct
+- ඔව්
+- ඇත්ත වශයෙන්ම
+- හරි
+- නිවැරදි
 
 ## intent:deny
-- no
-- never
-- I don't think so
-- don't like that
-- no way
-- not really
-- හොදයී
-- fedfdf
-- gfgg
-- Zxcvbnm
-- fd
-- df
-- fdf
-- dfdfd
-- dfdf
-- asdd
-- sdsd
-- dsdsds
-- ddsdsd
-- mama kanm
-- dsdddadsd
-- mamam
-- mama malee
-- maleedsddzddd
-- 12
-- mama kanavaa
-- mamama
-- sasa
-- hgh
-- fsf
-- AAA
+- නැත
+- කවදාවත් නැහැ
+- මම හිතන්නේ නැහැ
+- එයට කැමති නැහැ
+- කොහෙත්ම නැහැ
+- ඇත්තෙන්ම නැහැ
+
 
 ## intent:mood_great
-- perfect
-- very good
-- great
-- amazing
-- wonderful
-- I am feeling very good
-- I am great
-- I'm good
+- ඉතා හොඳයි
+- අපූරුයි
 - මම හොදින්
 - හොදයි
 - අවුලක් නෑ
 - සැපේ ඉන්නෙ
-- avulak nAa
 - සුභ උදෑසනක් වේවා
 
 ## intent:mood_unhappy
-- sad
-- very sad
-- unhappy
-- bad
-- very bad
-- awful
-- terrible
-- not very good
-- extremely sad
-- so sad
+- දුකින්
+- හරිම කනගාටුදායකයි
+- කනගාටුදායකයි
+- අසතුටින්
+- නරක
+- ඉතා නරකයි
+- භයානකයි
+- අතිශය දුක්ඛිතයි
 
 ## intent:bot_challenge
-- are you a bot?
-- are you a human?
-- am I talking to a bot?
-- am I talking to a human?
+- ඔබ බොට් කෙනෙක්ද?
+- ඔබ මිනිසෙක්ද?
+- මම බොට් කෙනෙක්ටද කතා කරන්නේ
+- මම කතා කරන්නේ මිනිසෙකු සමඟද?
 - ඔබ කව්ද
-- who are you
 - ඔයා ගැන මට කියන්න
 - ඔයා කවුද?
 
@@ -118,7 +74,7 @@
 - මට බඩු ගන්න ඔන
 - මට ආහර ඇනවුම් කිර්‍රිමට ඇව්ශ්යයි
 - මම කන්න යනවා
-- මට කෑම ගන්න oena
+- මට කෑම ගන්න ඕනේ
 - [මාලු පාන්](Food_Type)
 - [සුදු ලූනු රසැති පාන්](Food_Type)
 - [බටර් රසැති පාන්](Food_Type)
@@ -152,10 +108,10 @@
 - මට [පාන්](Food_Type) ඌන
 - මට  [බනිස් ](Food_Type)  ගන්න ඔන
 - මට [පාන්](Food_Type) ගන්න ඔන
-- බනිස්
-- මට  බනිස්     මිලදී ගන්න ඔන
-- මට පාන් මිලදී ගන්න ඔන
-- මට බනිස් මිලදී ගන්න ඔන
+- [බනිස්](Food_Type)
+- මට [බනිස්](Food_Type) මිලදී ගන්න ඔන
+- මට [පාන්](Food_Type) මිලදී ගන්න ඔන
+- මට [බනිස්](Food_Type) මිලදී ගන්න ඔන
 - [එලවලු සමෝසා](Food_Type) තියනවාද?
 - [කිඹුල බනිස්](Food_Type) තියනවාද?
 - [කිඹල බනිස්](Food_Type) තියනවාද?
@@ -165,9 +121,6 @@
 - මට අහාර ඇණවුම් කරගන්න ඕනේ
 - [කේක්](Food_Type)
 
-## intent:FAQ
-- ඔබගේ අවන්හලේ රැකියා අවස්තා තියෙනවද?
-- ඔයලාගේ අවන්හලේ රැකියාවක් කිරිමට මම කැමතියි.
 
 ## intent:About_Restaurant
 - ඔබෙ අවන්හල අරම්භ කලේ කවදාද?
