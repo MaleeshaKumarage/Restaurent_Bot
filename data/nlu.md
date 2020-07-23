@@ -103,7 +103,6 @@
 - [සමෝසා](Food_Type)
 - [පේස්ට්‍රි](Food_Type)
 - mata keak ganna ona
-- මට [පාන්](Food_Type) ඔන
 - මට [බනිස්](Food_Type) ගන්න ඔන
 - මට [පාන්](Food_Type) ගන්න ඔන
 - [බනිස්](Food_Type)
@@ -158,3 +157,5 @@
 - [ජලය](Search_Type) යනු කුමක්ද?
 - [අහස](Search_Type) යනු කුමක්ද
 - [කෑම](Search_Type) යන්නෙන් ඔබ අදහස් කරේ කුමක්ද?
+- [අහස ](Search_Type)කියන්නේ මොකක්ද ?
+- [ගහක් ](Search_Type)යනු
